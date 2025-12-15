@@ -1,5 +1,4 @@
 # FeedbackManagementSystem
-# FeedbackManagementSystem
 
 ## Introduction
 FeedbackManagementSystem is a Java Swing–based desktop application designed to collect, manage, and view structured feedback efficiently. It allows users to submit ratings and comments through a clean user interface while securely storing records in a CSV file for transparency and easy management.
